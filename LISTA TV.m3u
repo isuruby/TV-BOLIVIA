@@ -1,13 +1,28 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/Sx93Zh4/RED-UNO-LPZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO BOLIVIA LPZ HD
+plugin://plugin.video.dailymotion_com/?url=x8vzlqi&mode=playVideo
 
-#EXTINF:-1 tvg-id="UNITEL SCZ" tvg-logo="https://i.ibb.co/nRcbKbL/UNITEL-NACIONAL-HD.jpg",UNITEL SCZ
-https://www.dailymotion.com/video/x7vsezg
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/w6RXVpj/RED-UNO-SCZ-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO BOLIVIA SCZ HD
+plugin://plugin.video.dailymotion_com/?url=x8vufvw&mode=playVideo
 
+#EXTINF:-1 tvg-id="RED UNO BOLIVIA" tvg-logo="https://i.ibb.co/3FFpMhn/RED-UNO-CBBA-VLC.jpg" group-title="BOLIVIA USAR VLC",RED UNO BOLIVIA CBBA HD
+plugin://plugin.video.dailymotion_com/?url=x8ra7t7&mode=playVideo
 
-#EXTINF:-1 tvg-id="RED UNO SCZ"tvg-logo="https://www.reduno.com.bo/img/estructura/logo_red_uno_2023.png", RED UNO
-https://www.dailymotion.com/video/x8vufvw
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/Y06y7NgW/ATB-BOLIVIA-HD.jpg" group-title="BOLIVIA USAR VLC",ATB BOLIVIA HD
+plugin://plugin.video.dailymotion_com/?url=x84eirw&mode=playVideo
 
-#EXTINF:-1 tvg-id="ATB SCZ"tvg-logo="https://s2.dmcdn.net/u/1E8-X1a3vSma4YyE4/60x60", ATB SCZ
-https://www.dailymotion.com/video/x84t82c
+#EXTINF:-1 tvg-id="ATB BOLIVIA" tvg-logo="https://i.postimg.cc/rsMNSB0D/ATB-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC",ATB SCZ HD
+plugin://plugin.video.dailymotion_com/?url=x84t82c&mode=playVideo
 
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/L6ynTcYr/UNITEL-LPZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL LPZ HD
+plugin://plugin.video.dailymotion_com/?url=x7vsfua&mode=playVideo
+
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/8PWTFxdR/UNITEL-SCZ-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL SCZ HD
+plugin://plugin.video.dailymotion_com/?url=x7vsezg&mode=playVideo
+
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.postimg.cc/d3LzKZ6R/UNITEL-CBBA-HD.jpg" group-title="BOLIVIA USAR VLC",UNITEL CBBA HD
+plugin://plugin.video.dailymotion_com/?url=x7y922d&mode=playVideo
+
+#EXTINF:-1 tvg-id="UNITEL" tvg-logo="https://i.ibb.co/pzVXZcg/UNITEL-BOLIVIA-VLC.jpg" group-title="BOLIVIA USAR VLC",UNITEL BOLIVIA HD
+plugin://plugin.video.dailymotion_com/?url=x7wzxiw&mode=playVideo
