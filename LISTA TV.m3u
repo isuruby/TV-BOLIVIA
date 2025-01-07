@@ -1,5 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PATSantaCruz.bo" tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="BOLIVIA",PAT Santa Cruz
+#EXTINF:-1 tvg-id="" tvg-name="BOL | Unitel HD - Santa Cruz" tvg-logo="https://playnet.live:443/images/EtpPPjH22BD9bQ-ufHjgJfjwThQpqkEhCwpCMh2qSZ7yT1Uhnz3myIZ3xy2_eP23NdfR6FO0GJIEskyLpdfqUg.png" group-title="BOLIVIA",BOL | Unitel HD - Santa Cruz
+#EXTINF:-1 tvg-id="PATSantaCruz.bo" tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="BOLIVIA",PAT Santa Cruz 
 https://w8.redpat.tv:7777/play/110/index.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="BOLIVIA",Red Uno
 https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
