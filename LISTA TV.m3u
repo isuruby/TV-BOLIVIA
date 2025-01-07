@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="PATSantaCruz.bo" tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="BOLIVIA",PAT Santa Cruz 
-https://w8.redpat.tv:7777/play/110/index.m3u8
+http://playtvpremium.xyz:2095/live/56949231002playtv/301023playtv/313513.m3u8
 #EXTINF:-1 tvg-id="RedUno.bo" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="BOLIVIA",Red Uno
 http://playtvpremium.xyz:2095/live/56949231002playtv/301023playtv/313493.m3u8
 #EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="BOLIVIA",Unitel Santa Cruz
