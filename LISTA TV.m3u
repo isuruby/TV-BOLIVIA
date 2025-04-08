@@ -1,32 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="PATSantaCruz.bo" tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="BOLIVIA",PAT Santa Cruz 
-http://playtvpremium.xyz:2095/live/56949231002playtv/301023playtv/313513.m3u8
-#EXTINF:-1 tvg-id="RedUno.bo" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="BOLIVIA",Red Uno
-https://live-b.cf.dmcdn.net/sec2(Tqt-_JfloP-MXNpRzMC2X3cy8-2-KaLQMCQViwKfmfRwOlFoBbBbgoRhg9r2IvFGnBDLsrlMAIo65wPKUvZhTRPsa9f8Q7CPcZdcqfb99jFJ4cMaQC4D1364lCBFEju_)/dm/3/x98uwpi/d/live-720.m3u8
-#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="BOLIVIA",Unitel Santa Cruz
-https://live-c2.cf.dmcdn.net/sec2(XFaZGsSbrPyHI0kpUVJ92EfFuHJ5Riew-jjiSLOR-fakfyvmb9gv56kGsL6tu6f4oH3R7nMmIXFDCSB_9PSlCB3oYNt8dc72iTqvvYh1BhhtqUUAC7-3Brt0MZEYK-To)/cloud/3/x7wzxiw/s/live-720.m3u8
-#EXTINF:-1 tvg-id="AbyaYalaTV.bo" tvg-logo="https://comteco.com.bo/img/upload/canales/abya-yala.png" group-title="BOLIVIA",Abya Yala TV
-https://master.tucableip.com/abyayalatv/playlist.m3u8
-#EXTINF:-1 tvg-id="ANTv.bo" tvg-logo="https://i.imgur.com/RNs3KM1.png" group-title="BOLIVIA",ANTv
-http://181.188.144.141/tmp_hls/ant_tv/index.m3u8
-#EXTINF:-1 tvg-id="ATBLaPaz.bo" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="BOLIVIA",ATB La Paz
-http://186.121.206.197/live/daniel/index.m3u8
-#EXTINF:-1 tvg-id="ATBSantaCruz.bo" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="BOLIVIA",ATB Santa Cruz
+#EXTINF:-1 tvg-id="UnitelSantaCruz.bo" tvg-logo="https://i.imgur.com/B9wg1zj.png" group-title="General",Unitel Santa Cruz
+https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/UNITEL/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="RedUno.bo" tvg-logo="https://i.imgur.com/wfNaEV9.png" group-title="General",Red Uno
+https://streamer03.digital.com.bo/session/4e839498-b325-47f7-987f-205b4831346f/2ap337/__cl/cg:sworigin2/__c/REDUNO/__op/hls-default/__f/index.m3u8
+#EXTINF:-1 tvg-id="ATBSantaCruz.bo" tvg-logo="https://i.imgur.com/E243X2x.png" group-title="General",ATB Santa Cruz
 https://cdn.digital.com.bo/__cl/cg:sworigin2/__c/ATB/__op/hls-default/__f/index.m3u8
-#EXTINF:-1 tvg-id="BoliviaRadioTV.bo" tvg-logo="https://i.imgur.com/rW8xssX.png" group-title="",Bolivia Radio TV
-https://glb.bozztv.com/glb/ssh101/boliviaradiotv/playlist.m3u8
-#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA",Bolivia TV
+#EXTINF:-1 tvg-id="BoliviaTV.bo" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="General",Bolivia TV
 http://boliviatv1.srfms.com:5735/live/livestream/playlist.m3u8
-#EXTINF:-1 tvg-id="BoliviaTV72.bo" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="BOLIVIA",Bolivia TV 7.2
+#EXTINF:-1 tvg-id="BoliviaTV72.bo" tvg-logo="https://i.imgur.com/tKLYYys.png" group-title="General",Bolivia TV 7.2
 https://5ca3e84a76d30.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
-#EXTINF:-1 tvg-id="Bolivision.bo" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="BOLIVIA",Bolivision
+#EXTINF:-1 tvg-id="Bolivision.bo" tvg-logo="https://i.imgur.com/U98Z5zn.png" group-title="General",Bolivision
 https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="CadenaA.bo" tvg-logo="https://i.imgur.com/BxQPPAA.png" group-title="BOLIVIA",Cadena A
-https://5fe2654d6127d.streamlock.net/cadenaa/videocadenaa/playlist.m3u8
-#EXTINF:-1 tvg-id="Erbol.bo" tvg-logo="https://i.imgur.com/hn1KI7t.png" group-title="BOLIVIA",Erbol
-https://cloud2.streaminglivehd.com:1936/8182/8182/playlist.m3u8
-#EXTINF:-1 tvg-id="Gigavision.bo" tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="BOLIVIA",Gigavision
-https://master.tucableip.com/gigavision/playlist.m3u8
-#EXTINF:-1 tvg-id="PATLaPaz.bo" tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="BOLIVIA",PAT La Paz
-https://w8.redpat.tv:7777/play/120/index.m3u8
-
+#EXTINF:-1 tvg-id="PATSantaCruz.bo" tvg-logo="https://i.imgur.com/4A7R2Jt.png" group-title="General",PAT Santa Cruz
+https://w8.redpat.tv:7777/play/110/index.m3u8
